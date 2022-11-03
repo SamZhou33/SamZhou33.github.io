@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://SamZhou33.github.io</id>
+    <title>Hi</title>
+    <updated>2022-11-03T01:30:17.136Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://SamZhou33.github.io"/>
+    <link rel="self" href="https://SamZhou33.github.io/atom.xml"/>
+    <subtitle>这是一个新网站</subtitle>
+    <logo>https://SamZhou33.github.io/images/avatar.png</logo>
+    <icon>https://SamZhou33.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Hi</rights>
+    <entry>
+        <title type="html"><![CDATA[哈罗哈罗！]]></title>
+        <id>https://SamZhou33.github.io/post/ha-luo-ha-luo/</id>
+        <link href="https://SamZhou33.github.io/post/ha-luo-ha-luo/">
+        </link>
+        <updated>2022-11-02T09:55:47.000Z</updated>
+        <summary type="html"><![CDATA[<p>老婆我爱你哟！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>老婆我爱你哟！</p>
+<!-- more -->
+<p>MUAMUAMUA！</p>
+]]></content>
+    </entry>
+</feed>
